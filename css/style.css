@@ -28,7 +28,7 @@ main{
 .qr-code {
     width: 90%;
     height: 60%;
-    background: url(/qr-code-component-main/images/image-qr-code.png);
+    background: url(../images/image-qr-code.png);
     margin: 20px;
     border-radius: 10px;
     background-size: contain;
